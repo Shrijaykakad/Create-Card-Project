@@ -1,0 +1,19 @@
+{
+  "name": "cardwithcrud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrijay",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@glidejs/glide": "^3.7.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "method-override": "^3.0.0",
+    "multer": "^1.4.5-lts.2",
+    "uuid": "^11.1.0"
+  }
+}
